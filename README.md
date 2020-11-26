@@ -10,3 +10,5 @@ Prima con un semplice esempio *AppHookReducerTodos* per dimostrare come è più 
 L'altro esempio più complesso *AppHookReducerNotications* dove il **reducer** viene utilizzato per gestire la modifica di un stato complesso del componente utilizzando transazioni di stato.
 
 Importate il componente del relativo hook in *index.js* per vederlo in opera.
+
+https://codesandbox.io/s/react-hook-usereducer-17c1g
